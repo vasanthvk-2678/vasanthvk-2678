@@ -23,12 +23,3 @@ To work in highly competitive environment with a perfect Challenge by contributi
 </a>
 <br>
 <br>
-
-<center>
-<a href="https://github.com/vasanthvk-2678">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthvk-2678&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/vasanthvk-2678">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanthvk-2678&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-</center>
